@@ -6,7 +6,7 @@
 int salary = 34500; //宣告salary為全域變數
 
 int main(void) {
-  printf("salary = %d\n",salary);
+  	printf("salary = %d\n",salary);
 	{
 		int salary = 60000;
 		printf("salary = %d\n",salary);
