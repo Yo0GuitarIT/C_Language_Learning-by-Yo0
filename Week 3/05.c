@@ -8,5 +8,6 @@ int main(void) {
 
 	printf("ch1=%c 有%d位元\n",ch1,sizeof(ch1)); //輸出ch1的值及所佔的位元數
 	printf("ch2=%s 有%d位元\n",ch2,sizeof(ch2));
+	
   return 0;
 }
