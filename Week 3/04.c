@@ -14,7 +14,7 @@ int main(void) {
 
 	
 	printf("字元char2= %c 的ASCII碼=%d\n",char2,char2);
-	char2 = char2-32; //字元運算的功能
+	char2 = char2-32; 
 	printf("字元char2= %c 的ASCII碼=%d\n",char2,char2);
   return 0;
 }
