@@ -3,7 +3,7 @@
 
 int main(void) {
   
-  unsigned short int s1 = -1; //超過無號短整數的下限值
+  	unsigned short int s1 = -1; //超過無號短整數的下限值
 	short int s2 = 32768; //超過短整數的上限值
 
 	printf("s1=%d\n",s1);
