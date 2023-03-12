@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char name[]="Applepine";
+  	char name[]="Applepine";
 
 	printf("name=%s\n",name);
 	printf("name=%.2s\n",name);
