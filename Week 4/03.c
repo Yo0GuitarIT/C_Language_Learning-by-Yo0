@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int no = 1234;
+  	int no = 1234;
 
 	printf("no=%d\n",no);
 	printf("no=%6d\n",no); //欄寬設定為６
