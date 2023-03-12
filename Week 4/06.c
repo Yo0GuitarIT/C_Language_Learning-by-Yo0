@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int val = 345;
+  	int val = 345;
 
 	printf("%%d 格式輸出結果=%d\n",val);
 	printf("+6d 格式輸出結果=%+6d\n",val);
