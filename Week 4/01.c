@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int no =25;
+  	int no =25;
 	float price = 15.5;
 	char food[]="三明治";
 
