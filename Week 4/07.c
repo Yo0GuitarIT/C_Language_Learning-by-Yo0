@@ -3,7 +3,7 @@
 
 int main(void) {
 	
-  float f1,f2;
+  	float f1,f2;
 
 	scanf("%f%f",&f1,&f2); //用空白間隔兩數
 	printf("%f\n",f1+f2);
