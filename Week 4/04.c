@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  float fo = 234.567;
+  	float fo = 234.567;
 
 	printf("fo=%f\n",fo);
 	printf("fo=%.2f\n",fo); //精度設定為.2
