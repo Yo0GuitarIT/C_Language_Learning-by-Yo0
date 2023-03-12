@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int first,last;
+  	int first,last;
 
 	printf("請輸入九個數字:");
 	scanf("%4d%5d",&first,&last);
