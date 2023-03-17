@@ -17,7 +17,7 @@ int main(void) {
 	printf("input a string:");
 	scanf("%s",name1);
 	printf("input two string:");
-	scanf("%s%s",name2,name3);
+	scanf("%s%s",name2,name3); //按下Space做間隔
 
 	printf("name1=%s\n",name1);
 	printf("name2=%s\n",name2);
