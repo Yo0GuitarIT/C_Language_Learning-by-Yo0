@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int a,b;
+  	int a,b;
 
 	a=15;
 	printf("a=%d\n",a);
