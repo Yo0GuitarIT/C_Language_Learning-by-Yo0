@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int a=12,b=38;
+  	int a=12,b=38;
 
 	printf("%d&%d=%d\n",a,b,a&b); //AND &
 	printf("%d|%d=%d\n",a,b,a|b); //OR |
