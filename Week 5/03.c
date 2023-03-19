@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int a=3,b=5,c=7;
+  	int a=3,b=5,c=7;
 
 	printf("a=%d b=%d c=%d\n",a,b,c);
 	printf("-----------------------\n");
