@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int math,physical;
+	int math,physical;
 	char chr_pass;
 
 	printf("Input math & physical score:");
