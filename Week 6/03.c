@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  float cost=0;
+  	float cost=0;
 
 	printf("Input the total cost: ");
 	scanf("%f",&cost);
