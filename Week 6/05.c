@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 int main(void) {
-  char select;
-  printf(" (1)排骨便當\n");
+  	char select;
+	printf(" (1)排骨便當\n");
 	printf(" (2)海鮮便當\n");
 	printf(" (3)雞腿便當\n");
-  printf(" (4)魚排便當\n");
+  	printf(" (4)魚排便當\n");
 	printf("\n=========================\n");
 	printf("請輸入您要購買的便當: ");
 	scanf("%c",&select);
@@ -27,6 +27,8 @@ int main(void) {
 		default:  //select內容為滿足於case選項時執行
 		  printf("輸入錯誤...");
 	}
+	
 	printf("\n=========================\n");
-  return 0;
+  	
+	return 0;
 }
