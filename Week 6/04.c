@@ -10,7 +10,7 @@ int main(void) {
 	printf("Math is %d, Physical is %d.\n",math,physical);
 
 	chr_pass = (math >= 60 && physical >= 60)?'Y':'N';  
-	//(...)內為條件式,符合時chr_pass儲存'Y',不符合時儲存'N'
+	//(...)上一行為條件運算式,符合時chr_pass儲存'Y',不符合時儲存'N'
 	//印出chr_pass變數內容，顯示該考生是否及格
 	printf("Pass or not? %c\n",chr_pass);
 	
