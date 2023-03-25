@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int value;
+  	int value;
 
 	printf("Input one integer number: ");
 	scanf("%d",&value);
