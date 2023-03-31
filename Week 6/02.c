@@ -15,7 +15,7 @@ int main(void) {
 		}
 	}
 	else{
-		printf("Not cconform all");
+		printf("Not conform all");
 	}
   return 0;
 }
