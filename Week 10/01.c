@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int score[5]={87,66,90,65,70}; //定義整數陣列並設定5筆成績
+  	int score[5]={87,66,90,65,70}; //定義整數陣列並設定5筆成績
 	float total = 0;
 
 	for(int i=0;i<5;i++){ 
