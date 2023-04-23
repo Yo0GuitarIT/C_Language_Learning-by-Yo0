@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int n,prime;
+  	int n,prime;
 	int counter = 0;
 
 	printf("Input a number: ");
