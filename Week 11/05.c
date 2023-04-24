@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main(void) {
-  char str1[40],str2[40];
+  	char str1[40],str2[40];
 
 	printf("請輸入第一個字串：");
 	scanf("%s",str1);
