@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int length=0;			//用來做計算字串的長度
+  	int length=0;			//用來做計算字串的長度
 	char str[30];   //宣告此字串最多儲存30個字元
 
 	printf("請說入字串：");
