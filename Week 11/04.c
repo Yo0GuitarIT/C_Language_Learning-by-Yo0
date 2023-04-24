@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char S1[30],S2[30],S3[60];
+ 	char S1[30],S2[30],S3[60];
 	int record=0;
 
 	printf("字串S1的內容：");
