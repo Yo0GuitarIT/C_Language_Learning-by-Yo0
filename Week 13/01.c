@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int a1=40,a2=58,a3=71;
+  	int a1=40,a2=58,a3=71;
 	int *p1,*p2,*p3;
 
 	p1=&a1; //p1指向a1記憶體的位置
