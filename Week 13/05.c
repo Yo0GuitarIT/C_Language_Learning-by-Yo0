@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int no[2][4]={{312,15,65,35},
+  	int no[2][4]={{312,15,65,35},
 	              {52,111,77,80}};
 
 	for(int i=0;i<2;i++){
