@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  int a1=10;
+  	int a1=10;
 	int *ptr1,**ptr2,***ptr3;
 
 	ptr1=&a1;
