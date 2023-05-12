@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  	char name[4][10]={"\0","Ann","Olivia","Jackson"}; //第第一項放入會有bug
+  	char name[4][10]={"\0","Ann","Olivia","Jackson"}; //第一項放入會有bug
 	char score[3][3];
 	int total; 
 
