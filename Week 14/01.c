@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  float* piF = (float*)malloc(sizeof(float));
+  	float* piF = (float*)malloc(sizeof(float));
 
 	printf("輸入piF的值：\n");
 	scanf("%f",piF);
