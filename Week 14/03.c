@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main(void) {
-  char *name;
+  	char *name;
 	int i;
 
 	printf("請輸入英文字串長度：");
