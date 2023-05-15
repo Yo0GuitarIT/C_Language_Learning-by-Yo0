@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char **star;
+  	char **star;
 	int row,col;
 
 	printf("請輸入列數：");
