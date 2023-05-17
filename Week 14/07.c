@@ -4,7 +4,7 @@
 int mymax(int,int); //函數原形宣告
 
 int main(void) {
-  int a,b;
+  	int a,b;
 	printf("數字比大小\n");
 	
 	printf("數字請輸入a:");
