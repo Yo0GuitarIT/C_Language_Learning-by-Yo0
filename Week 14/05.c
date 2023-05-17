@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char **month;
+  	char **month;
 	int row,col;
 	char month_name[12][10]={"January","February","March","April","May","June","July","August","September","October","Novermber","December"};
 	
