@@ -12,7 +12,7 @@ int main(void) {
 
 	star = (char **)malloc(row*sizeof(char *)); //使用star雙重指標配置一個具有row個元素的一維陣列
 	for(int i=0;i<row;i++){
-		star[i] = (char *)malloc(row*sizeof(char)); //個別產生一個具有col個元素的一維陣列
+		star[i] = (char *)malloc(col*sizeof(char)); //個別產生一個具有col個元素的一維陣列
 		for(int j=0;j<col;j++){
 			star[i][j]='*';
 		}
