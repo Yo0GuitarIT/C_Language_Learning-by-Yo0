@@ -4,7 +4,7 @@
 void mutiple(int arr[],int);  //函數mutiple()原型宣吿
 
 int main(void) {
-  int array[6]={1,2,3,4,5,6};
+  	int array[6]={1,2,3,4,5,6};
 	int n =6;
 
 	printf("呼叫mutiple()函數前，array[6]=");
