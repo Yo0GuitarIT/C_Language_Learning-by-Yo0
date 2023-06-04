@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void print_arr(int arr[][5],int,int);
-//函數圓形宣告，一維可以省略，其他維數的標註鬥必須定義清楚
+//函數圓形宣告，一維可以省略，其他維數的標註必須定義清楚
 
 int main(void) {
   	int score_arr[][5]={{19,69,73,90,45},{81,42,53,64,55}};
