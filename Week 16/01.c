@@ -7,7 +7,7 @@ int b=50; //全域變數
 void func();
 
 int main(void) {
-  int a=10; //區域變數
+ 	int a=10; //區域變數
 	
 	printf("主程式中,a=%d b=%d\n",a,b);
 	func();
