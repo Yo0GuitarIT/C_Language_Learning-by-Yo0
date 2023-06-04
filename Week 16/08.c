@@ -6,7 +6,7 @@
 #define RESULT r*r*PI
 
 int main(void) {
-  int r;
+	int r;
 	
 	printf("Input thr radius r:");
 	scanf("%d",&r);
