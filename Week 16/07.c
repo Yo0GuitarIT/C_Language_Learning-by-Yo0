@@ -5,7 +5,7 @@
 #define PI 3.1415926
 
 int main(void) {
-  double (*pF)(double);
+  	double (*pF)(double);
 	
 	pF=sin; //將sin函數的位置指向pF
 	printf("%f\n",pF(PI/2));
