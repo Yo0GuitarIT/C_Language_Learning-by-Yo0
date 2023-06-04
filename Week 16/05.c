@@ -5,7 +5,7 @@ int n_degree_rec(int);
 int n_degree_loop(int);
 
 int main(void) {
-  int n,a,b;
+  	int n,a,b;
 
 	printf("請輸入n值：");
 	scanf("%d",&n);
