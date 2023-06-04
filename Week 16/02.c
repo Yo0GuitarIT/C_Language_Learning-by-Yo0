@@ -5,7 +5,7 @@
 void swap_test(int *,int *);  //函數傳址呼叫
 
 int main(void) {
-  int a=10,b=20;
+  	int a=10,b=20;
 
 	printf("函數外交換前:a=%d, b=%d\n\n",a,b);
 	swap_test(&a, &b);  //傳址呼叫
